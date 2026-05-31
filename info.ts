@@ -10,7 +10,7 @@ let info = {
     },
   },
   description:
-    'A Computer Science Engineering student specializing in Gaming Technology at Vellore Institute of Technology, Bhopal. As a developer, I feel most at home in terminal environments, focusing heavily on backend architecture, logic, and distributed systems. <br><br>I have strong production exposure to scalable REST APIs, authentication systems, and real-time transaction pipelines. I am passionate about optimizing performance, enforcing security, and delivering efficient backend services that yield measurable business outcomes.',
+    'A Computer Science Engineering student at Vellore Institute of Technology (Bhopal Campus) . As a developer, I feel most at home in terminal environments, focusing heavily on backend architecture, logic, and distributed systems. <br><br>I have strong production exposure to scalable REST APIs, authentication systems, and real-time transaction pipelines. I am passionate about optimizing performance, enforcing security, and delivering efficient backend services that yield measurable business outcomes.',
   links: {
     linkedin: 'https://www.linkedin.com/in/divyesh-gaygol-748983302/',
     github: 'https://github.com/The-WarLog',
