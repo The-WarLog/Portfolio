@@ -76,7 +76,7 @@
                     'fas fa-moon': nightMode,
                     'far fa-moon': !nightMode,
                   }"
-                  title="nightMode ? 'Light Mode' : 'Night Mode'"
+                  v-tooltip.bottom="nightMode ? 'Light Mode' : 'Night Mode'"
                 ></i>
               </a>
             </li>

@@ -8,14 +8,26 @@
 
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <div class="text-center">
-            <button class="btn btn-outline-secondary mx-2" @click="open(links.linkedin)">
+            <button
+              class="btn btn-outline-secondary mx-2"
+              @click="open(links.linkedin)"
+              title="LinkedIn"
+            >
               <i class="fab fa-linkedin"></i>
             </button>
-            <button class="btn btn-outline-secondary mx-2" @click="open(links.github)">
+            <button
+              class="btn btn-outline-secondary mx-2"
+              @click="open(links.github)"
+              title="GitHub"
+            >
               <i class="fab fa-github"></i>
             </button>
 
-            <button class="btn btn-outline-secondary mx-2" @click="open(links.resume)">
+            <button
+              class="btn btn-outline-secondary mx-2"
+              @click="open(links.resume)"
+              title="Resume"
+            >
               <i class="fa fa-file"></i>
             </button>
           </div>
