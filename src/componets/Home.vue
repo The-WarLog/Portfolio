@@ -16,23 +16,15 @@
             <button
               class="btn btn-outline-secondary mx-2"
               @click="open('linkedin')"
-              v-tooltip.bottom="'LinkedIn'"
+              title="'LinkedIn'"
             >
               <i class="fab fa-linkedin"></i>
             </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('github')"
-              v-tooltip.bottom="'GitHub'"
-            >
+            <button class="btn btn-outline-secondary mx-2" @click="open('github')" title="'GitHub'">
               <i class="fab fa-github"></i>
             </button>
 
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('resume')"
-              v-tooltip.bottom="'Resume'"
-            >
+            <button class="btn btn-outline-secondary mx-2" @click="open('resume')" title="'Resume'">
               <i class="fa fa-file"></i>
             </button>
           </div>

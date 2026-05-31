@@ -49,4 +49,15 @@ const scrollTo = (ele) => {
 html {
   scroll-behavior: smooth;
 }
+/* Custom Tooltip Styling to match the original template */
+.v-popper__popper .v-popper__inner {
+  background: #333 !important;
+  color: white !important;
+  border-radius: 5px !important;
+  font-size: 13px !important;
+  padding: 5px 10px !important;
+}
+.v-popper__popper .v-popper__arrow-inner {
+  border-color: #333 !important;
+}
 </style>

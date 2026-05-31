@@ -1,7 +1,8 @@
+import potrait from './src/assests/potrait.jpg'
 let info = {
   name: 'Divyesh Gajanan Gaygol',
   logo_name: 'divyesh',
-  flat_picture: 'src/assests/potrait.jpg', // Add your portrait path here
+  flat_picture: potrait, // Add your portrait path here
   config: {
     use_cookies: true,
     navbar: {
