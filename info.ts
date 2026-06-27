@@ -110,6 +110,21 @@ let info = {
         'Engineered a Google Docs-style collaborative document editor supporting concurrent multi-user editing with zero data loss. Built a Spring Boot WebSocket server with CRDT-based conflict resolution. Implemented Redis Pub/Sub for cross-instance state synchronization, reducing sync latency by 65%. Designed a live presence system achieving sub-100ms UI propagation, and persisted document versioning in PostgreSQL.',
     },
     {
+      name: 'Recon',
+      pictures: [
+        {
+          img: '',
+        },
+      ],
+      technologies: ['TypeScript', 'Bun', 'OpenRouter AI SDK', 'Commander', 'Clack', 'Chalk', 'Firecrawl', 'Diff'],
+      category: 'Developer Tooling',
+      date: '2026',
+      github: '',
+      visit: '',
+      description:
+        'Built a full-featured CLI tool in TypeScript (Bun runtime) enabling developers to analyze, navigate, and autonomously modify codebases through natural language instructions. Designed a dual-mode architecture — Agent Mode for autonomous file creation, modification, and shell execution, and Ask Mode for safe read-only codebase querying. Integrated OpenRouter AI SDK for flexible multi-model AI backends, implemented a staged approval workflow ensuring zero unreviewed changes reach the filesystem, and incorporated Firecrawl for live web scraping to enrich agent context during sessions.',
+    },
+    {
       name: 'MonBuyAPI',
       pictures: [
         {
