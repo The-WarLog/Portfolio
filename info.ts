@@ -23,7 +23,7 @@ let info = {
       place: 'India',
       date: 'Expected May 2027',
       degree: 'B.Tech in Computer Science Engineering (Minor in Gaming Technology)',
-      gpa: '8.11/10.0',
+      gpa: '8.13/10.0',
       description:
         "Currently pursuing my Bachelor's degree with a focus on core computer science fundamentals and software engineering.",
       skills: [
