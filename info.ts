@@ -15,7 +15,7 @@ let info = {
     linkedin: 'https://www.linkedin.com/in/divyesh-gaygol-748983302/',
     github: 'https://github.com/The-WarLog',
     email: 'mailto:divyeshgaigol17@gmail.com',
-    resume: 'https://drive.google.com/file/d/10j8KXut4DYa-9a4CKXD2_69xD0N0eSbz/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1gysYO9ioo-7ACsPHJp1OYqql1yi4sIKy/view?usp=sharing',
   },
   education: [
     {
